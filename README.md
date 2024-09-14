@@ -10,5 +10,3 @@ C# 💻 – A substitutional language, used professionally as needed.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adpmk112&layout=compact)
 
-![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=adpmk112)
-
