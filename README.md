@@ -1,6 +1,6 @@
 # Quick Introduction
 
-I am a pragmatic and dedicated software developer with a strong focus on mastering foundational programming languages and understanding the core principles of software development. My expertise lies in delivering clean and efficient code, with a deep dive into the underlying mechanisms of languages and tools rather than just the frameworks. My expertise lies in:
+I am a pragmatic and dedicated software developer with a strong focus on mastering foundational programming languages and understanding the core principles of software development. My expertise lies in delivering clean and efficient code, with a deep dive into the underlying mechanisms of languages and tools rather than just the frameworks.
 
 Java 🌟 – My primary and favorite language, ideal for deep learning and building robust applications.
 
