@@ -6,7 +6,7 @@ Java 🌟 – My primary and favorite language, ideal for deep learning and buil
 
 Python 🐍 – My favorite dynamic language, excellent for data science tasks with tools like Pandas, and used for quick scripting.
 
-C# 💻 – A substitutional language, used professionally as needed.
+C# 💻 – One of my most specialized and professionally used language.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adpmk112&layout=compact)
 
