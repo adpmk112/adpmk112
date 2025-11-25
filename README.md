@@ -1,12 +1,10 @@
 # Quick Introduction
 
-I am a pragmatic and dedicated software developer with a strong focus on mastering foundational programming languages and understanding the core principles of software development. My expertise lies in delivering clean and efficient code, with a deep dive into the underlying mechanisms of languages and tools. I prioritize understanding the logic and solving problems at their core, and I believe in thoroughly reading documentation and books over simply practicing code.
+Pragmatic software developer who cares more about real understanding than surface-level practice. I focus on core principles, language internals, and how things actually work under the hood. Clean, efficient, and maintainable code is my default approach. I solve problems by getting to their root logic, and I rely on documentation, books, and solid theory rather than trial-and-error coding.
 
-Java 🌟 – My primary and favorite language, ideal for deep learning and building robust applications.
+C# 💻 – My strongest professional language, used extensively in real production systems.
+Python 🐍 – A reliable dynamic language I enjoy using for quick scripts, data tasks, and anything involving Pandas.
+Java 🌟 – My foundational language and long-time favorite for learning and mastering core concepts.
 
-Python 🐍 – My favorite dynamic language, excellent for data science tasks with tools like Pandas, and used for quick scripting.
-
-C# 💻 – One of my most specialized and professionally used language.
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adpmk112&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=adpmk112&layout=compact)
 
