@@ -6,5 +6,5 @@ C# 💻 – My strongest professional language, used extensively in real product
 Python 🐍 – A reliable dynamic language I enjoy using for quick scripts, data tasks, and anything involving Pandas.
 Java 🌟 – My foundational language and long-time favorite for learning and mastering core concepts.
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=adpmk112&layout=compact)
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=adpmk112&layout=compact)
 
